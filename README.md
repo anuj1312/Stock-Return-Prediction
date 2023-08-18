@@ -1,4 +1,3 @@
-# Stock-Return-Prediction
 # AIAlpha: Multilayer neural network architecture for stock return prediction
 
 This project is meant to be an **advanced** implementation of **stacked neural networks** to predict the return of stocks. My goal for the viewer is to understand the core principles that go behind the development of such a multilayer model and the nuances of training the individual components for optimal predictive ability. Once the core principles are understood, the various components of the model can be replaced with the state of the art models available at time of usage. 
